@@ -9,7 +9,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/ambiance.webp"
+          src="/images/ambiance.jpg"
           alt="Ambiance O'Vestiaire — décor vestiaire rugby"
           fill
           className="object-cover"
