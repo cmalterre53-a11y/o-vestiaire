@@ -16,7 +16,7 @@ const plats = [
     description:
       "Pain brioché, steak haché frais, cheddar affiné, oignons confits et notre sauce secrète. Servi avec frites maison.",
     emoji: "🍔",
-    image: "/images/burger.webp",
+    image: "/images/burgera.webp",
   },
   {
     nom: "Salades Fraîcheur",
